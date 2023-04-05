@@ -30,7 +30,6 @@ public class ProductsController {
     }
 
     /**
-     * @param locale
      * @return
      */
     private List<Product> fetchProducts() {

@@ -1,6 +1,6 @@
 ## Internalization
 
-This is a Spring MVC Practice Project focusing i18n where I learn to display local messages based on the selected **locale**. That is, en for English messages, fr for French etc.
+This is a Spring MVC Practice Project focusing on internalization (i18n) where we display local messages based on the selected **locale**. That is, en for English messages, fr for French etc.
 
 
 **Internalization**, commonly referred to as i18n (number of letters between the first letter 'i' and 'n' is 18), is the process of designing and developing that can be adapted to different languages, regions and cultural settings.
